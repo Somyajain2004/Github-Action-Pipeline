@@ -24,5 +24,12 @@ After the workflow runs:
 
 1. Click on the latest workflow run (e.g., `#3 Node.js Greet Workflow`).
 2. Click on the job titled `greet`.
-3. Find and expand the step: **"Log greeting message"**.
-4. You will see an output like this:
+
+   <img src="https://github.com/user-attachments/assets/fab16657-e41c-4190-9391-b69fb72b2cf5" width="600"/>
+
+4. Find and expand the step: **"Log greeting message"**.
+5. You will see an output like this:
+
+   <img src="https://github.com/user-attachments/assets/6ec12b23-098d-4b53-833f-bc309b1978bc" width="600"/>
+
+   
